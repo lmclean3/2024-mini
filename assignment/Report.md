@@ -1,0 +1,3 @@
+light:
+sound:
+cloud:
